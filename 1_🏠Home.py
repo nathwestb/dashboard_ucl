@@ -3,7 +3,6 @@ import pandas as pd
 import webbrowser
 from datetime import datetime
 from PIL import Image
-pip install openpyxl --upgrade
 
 st.set_page_config(
     page_title="Home",
